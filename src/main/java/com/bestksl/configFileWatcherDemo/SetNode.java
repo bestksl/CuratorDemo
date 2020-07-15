@@ -16,6 +16,3 @@ public class SetNode {
         Thread.sleep(1000 * 3600);
     }
 }
-
-
-
